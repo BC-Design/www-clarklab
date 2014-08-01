@@ -1,0 +1,6 @@
+body { color: black; background-color: white; }
+p {}
+a:link { color: blue }
+a:visited { color: purple }
+a:hover { color: purple }
+a:active { color: red }

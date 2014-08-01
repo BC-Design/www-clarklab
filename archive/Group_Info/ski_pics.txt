@@ -1,0 +1,14 @@
+ski_2003/group_cabin.jpg|ski_2003/group_cabin.jpg
+ski_2003/boonchai_ross.jpg|ski_2003/boonchai_ross.jpg
+ski_2003/boonchai_doug.jpg|ski_2003/boonchai_doug.jpg
+ski_2003/group_day2.jpg|ski_2003/group_day2.jpg
+ski_2003/jess_cooking.jpg|ski_2003/jess_cooking.jpg
+ski_2003/jess_ross_doug.jpg|ski_2003/jess_ross_doug.jpg
+ski_2003/ross_umar.jpg|ski_2003/ross_umar.jpg
+ski_2003/getting_ready.jpg|ski_2003/getting_ready.jpg
+ski_2003/bash.jpg|ski_2003/bash.jpg
+ski_2003/tbag.jpg|ski_2003/tbag.jpg
+ski_2003/tbag_hrj.jpg|ski_2003/tbag_hrj.jpg
+ski_2003/bash2.jpg|ski_2003/bash2.jpg
+ski_2003/lake_tahoe.jpg|ski_2003/lake_tahoe.jpg
+

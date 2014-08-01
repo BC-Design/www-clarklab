@@ -1,0 +1,13 @@
+bbq_2003/bbq_intro.jpg|bbq_2003/bbq_intro.jpg
+bbq_2003/the_view.jpg|bbq_2003/the_view.jpg
+bbq_2003/sushi.jpg|bbq_2003/sushi.jpg
+bbq_2003/tim_nitika.jpg|bbq_2003/tim_nitika.jpg
+bbq_2003/old_europe.jpg|bbq_2003/old_europe.jpg
+bbq_2003/tim_focused.jpg|bbq_2003/tim_focused.jpg
+bbq_2003/doug_adam.jpg|bbq_2003/doug_adam.jpg
+bbq_2003/the_tub.jpg|bbq_2003/the_tub.jpg
+bbq_2003/tub_above.jpg|bbq_2003/tub_above.jpg
+bbq_2003/tub_corner.jpg|bbq_2003/tub_corner.jpg
+bbq_2003/schlitz.jpg|bbq_2003/schlitz.jpg
+bbq_2003/the_end.jpg|bbq_2003/the_end.jpg
+

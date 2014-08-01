@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|25 Apr 2003 02:10:28 -0000
+vti_extenderversion:SR|5.0.2.2623
+vti_lineageid:SR|{77E7923A-17FC-4D42-A11C-192757E630DC}
+vti_backlinkinfo:VX|
+vti_author:SR|YOGI\\Tim
+vti_modifiedby:SR|YOGI\\Tim
+vti_nexttolasttimemodified:TR|24 Apr 2003 22:49:29 -0000
+vti_timecreated:TR|25 Apr 2003 00:39:52 -0000
+vti_cacheddtm:TX|25 Apr 2003 00:39:52 -0000
+vti_filesize:IR|822
