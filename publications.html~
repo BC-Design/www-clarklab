@@ -21,7 +21,7 @@
 <!-- Start Body -->
 <!-- ########## -->
 
-<body>
+<body link="black" vlink="black" alink="#63c814">
 <div class="container">
 
 
