@@ -151,7 +151,7 @@ a:active { color: black; text-decoration: none; }
 		  </tr>
 
 			<tr>
-			  <td height="1500" colspan="2" bgcolor="white"></td><td></td><td></td>
+			  <td height="1000" colspan="2" bgcolor="white"></td><td></td><td></td>
 		  </tr>
 
 	</table>
