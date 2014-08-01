@@ -1,76 +1,44 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- ########## -->
+<!-- Start Head -->
+<!-- ########## -->
 
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<title>Group Information</title>
+
+	<!-- Import Stylesheets -->
 	<link href="css/basic.css" rel="stylesheet" type="text/css" media="all" />
-	<style type="text/css" media="screen">
-		a:link { color: black; text-decoration: none; }
-		a:visited { color: black; text-decoration: none; }
-		a:hover { color: #fe6811; text-decoration: none; }
-		a:active { color: black; text-decoration: none; }
 
-		.nav_sidebar {width:185px; background-color:#e6e6e6; padding:12px 0px 5px 15px; float:left;}
-		.nav_sidebar_item {font-size: small; font-family: Verdana, Arial, Helvetica, sans-serif; padding:2px 0px 2px 0px; margin:0;}
-		.nav_sidebar_subitem {font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; padding:4px 0px 4px 10px; margin:0;}
-		.right_sidebar {width:185px; float:right;  font-weight:bold }
+	<!-- Import Scripts -->
+	<script type="text/javascript" src="javascript/site-parts.js"></script>
 
-		.toc {border:2px solid black; padding: 0px 0px 5px 10px; margin:15px 0px 25px 0px;}
-
-		.container {margin: 0 auto 0 0; width: 800px;}
-		.content {padding:0px 10px 10px 5px; font-family: Verdana, Arial, Helvetica, sans-serif; width:585px; float:left;}
-		h1 { font-size:1.0em;}
-		p,li { font-size:0.8em;}
-
-		th { text-align:left;}
-		tr:nth-child(even) {background: #CCC}
-		tr:nth-child(odd) {background: #FFF}
-		</style>
 	</head>
+
+<!-- ########## -->
+<!-- Start Body -->
+<!-- ########## -->
 
 <body link="black" vlink="black" alink="#63c814">
 <div class="container">
 
-<!-- This creates the header -->
+<!-- This creates the banner -->
 
-<table width="800" border="0" cellspacing="0" cellpadding="0">
-	<tr>
-		<td colspan="3"><a title="Home" href="index.html"><img src="images/ClarkTitle_01.jpg" alt="" width="200" height="40" border="0" /></a></td>
-		<td height="40" colspan="2"><div align="left"><a href="http://cheme.berkeley.edu"><img src="images/ClarkTitle_02.jpg" alt="" width="216" height="40" border="0" /></a></div></td>
-		<td colspan="2"><a href="http://www.berkeley.edu"><img src="images/ClarkTitle_04.jpg" alt="" width="200" height="40" border="0" /></a></td>
-		</tr>
-			
-	<tr height="15">
-		<td colspan="7" bgcolor="#FFFF0E" height="15"></td>
-		</tr>
+<div id=banner></div>
+<script type="text/javascript">insertBanner()</script>
 
-	<tr>
-		<td colspan="7"><img src="images/Banner07.jpg" alt="" width="800" height="215" border="0" /></td>
-		</tr>
-
-	<tr height="15">
-		<td width="200" colspan="3" bgcolor="#333333" height="15"></td>
-		<td width="415" height="15" colspan="3" bgcolor="#e6e6e6"></td>
-		<td width="185" height="15" bgcolor="#FFFF0E"></td>
-		</tr>
-</table>
 
 <!-- This sets up the navigation sidebar -->
 
-<div class="nav_sidebar">
-	<a href="research.html"><p class="nav_sidebar_item">Research Interests</p></a>
-	<a href="group_members.html"><p class="nav_sidebar_item">Group Members</p></a>
-	<a href="publications.html"><p class="nav_sidebar_item">Publications</p></a>
-	<a href="group_info.html"><p class="nav_sidebar_item">Group Info</p></a>
-		<a href="group_photos.html"><p class="nav_sidebar_subitem">Group Photos</p></a>
-	<a href="available_positions.html"><p class="nav_sidebar_item">Available Positions</p></a>
-	</div>
+<div id=navBar></div>
+<script type="text/javascript">insertNavBar_info()</script>
+
 
 <!-- The page content goes here -->
 
-<div class="content">
+<div class="content_wide">
 
 <h1>Group Meeting Schedule 2014</h1>
 

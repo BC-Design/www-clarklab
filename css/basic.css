@@ -1,6 +1,30 @@
 body { color: black; background-color: white; }
 p {}
-a:link { color: blue }
-a:visited { color: purple }
-a:hover { color: purple }
-a:active { color: red }
+
+a:link { color: black; text-decoration: none; }
+a:visited { color: black; text-decoration: none; }
+a:hover { color: #fe6811; text-decoration: none; }
+a:active { color: black; text-decoration: none; }
+
+.nav_sidebar {width:185px; background-color:#e6e6e6; padding:12px 0px 5px 15px; float:left;}
+.nav_sidebar_item {font-size: small; font-family: Verdana, Arial, Helvetica, sans-serif; padding:2px 0px 2px 0px; margin:0;}
+.nav_sidebar_subitem {font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; padding:4px 0px 4px 10px; margin:0;}
+
+.right_sidebar {width:185px; float:right;  font-weight:bold }
+
+.container {margin: 0 auto 0 0; width: 800px;}
+.inner_container {margin: 0 auto 0 0;}
+.content {padding:0px 10px 10px 5px; font-family: Verdana, Arial, Helvetica, sans-serif; width:400px; float:left; margin: 0 auto 0 0;}
+.content_wide {padding:0px 10px 10px 5px; font-family: Verdana, Arial, Helvetica, sans-serif; width:585px; float:left;}
+.toc {border:2px solid black; padding: 0px 0px 5px 10px; margin:15px 0px 25px 0px;}
+.profile {display:inline-block; padding:0px; margin:0px 5px 0px 0px; font-size:0.7em; }
+.profile_img {background-color:#e6e6e6; display:block; width:185px; padding:0px; margin:0px; }
+
+h1 { font-size:1.0em;}
+h2 { font-size:0.9em; margin:10px 0px 0px 0px;}
+p,li { font-size:0.8em;}
+
+
+th { text-align:left;}
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
