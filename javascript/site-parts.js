@@ -44,6 +44,26 @@ function insertNavBar_research() {
 	document.getElementById('navBar').innerHTML = navBarHTML;
 	}
 
+function insertNavBar_hor() {
+	var navBarHTML = '<table width="800" border="0" cellspacing="0" cellpadding="0">'
+		+ '<tr height="40">'
+		+ '<td colspan="2" height="40"><a href="index.html"><img src="images/ClarkTitle_01.jpg" alt="" width="200" height="40" border="0" /></a></td>'
+		+ '<td colspan="3" height="40"><a href="http://cheme.berkeley.edu"><img src="images/ClarkTitle_02.jpg" alt="" width="216" height="40" border="0" /></a></td>'
+		+ '<td width="265" height="40"><a href="http://www.berkeley.edu"><img src="images/ClarkTitle_04.jpg" alt="" width="200" height="40" border="0" /></a></td>'
+		+ '</tr>'
+		+ '<tr height="15">'
+		+ '<td align="left" bgcolor="#333333" width="106" height="35"><font  color="white" face="Verdana, Arial, Helvetica, sans-serif"><a href="research.html">&nbsp;Research</a></font></td>'
+		+ '<td align="center" valign="middle" bgcolor="#333333" width="138" height="15"><font color="white" face="Verdana, Arial, Helvetica, sans-serif"><a href="group_members.html">Group Members</a></font></td>'
+		+ '<td align="center" valign="middle" bgcolor="#333333" width="149" height="15"><a href="publications.html"><font face="Verdana, Arial, Helvetica, sans-serif">Publications</font></a></td>'
+		+ '<td align="left" valign="middle" bgcolor="#333333" width="141" height="15"><font color="white" face="Verdana, Arial, Helvetica, sans-serif"><a href="group_info.html">&nbsp;&nbsp;Group Info</a></font></td>'
+		+ '<td align="left" valign="middle" colspan="2" bgcolor="#333333" height="15"><font color="white" face="Verdana, Arial, Helvetica, sans-serif"><a href="available_positions.html">&nbsp;Available Positions</a></font></td>'
+		+ '</tr>'
+		+ '<tr><td colspan="8"><img id="baseimage1" src="images/HomePage01.jpg" alt="" name="baseimage1" width="800" height="545" border="0" /></td></tr>'
+		+ '</table>';
+
+	document.getElementById('navBar').innerHTML = navBarHTML;
+	}
+
 
 // Site Banner Construction
 
