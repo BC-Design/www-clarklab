@@ -18,10 +18,10 @@
 
 	<!-- Set Document-Specific Styles -->
 	<style type="text/css" media="screen">
-		.content_wide a:link { color: blue; text-decoration: none; }
-		.content_wide a:visited { color: purple; text-decoration: none; }
-		.content_wide a:hover { color: #ccc; }
-		.content_wide a:active { color: #fff; text-decoration: none; }
+		#content_wide a:link { color: blue; text-decoration: none; }
+		#content_wide a:visited { color: purple; text-decoration: none; }
+		#content_wide a:hover { color: #ccc; }
+		#content_wide a:active { color: #fff; text-decoration: none; }
 	</style>
 
 	</head>
