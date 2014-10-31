@@ -84,6 +84,7 @@ function insertBanner() {
 	bannerColors['group_members.html'] = '#3a4595';
 	bannerColors['research.html'] = '#63C814';
 	bannerColors['publications.html'] = '#4C5BB8';
+	bannerColors['test.html'] = '#4C5BB8';
 	//bannerColors['.html'] = '#';
 
 	var bannerImages = {};
@@ -99,6 +100,7 @@ function insertBanner() {
 	bannerImages['group_members.html'] = 'images/Banner08.jpg';
 	bannerImages['research.html'] = 'images/Banner01.jpg';
 	bannerImages['publications.html'] = 'images/BannerPub.jpg';
+	bannerImages['test.html'] = 'images/BannerPub.jpg';	
 	//bannerImages['.html'] = '#';
 
 	var bannerHTML = '<table width="800" border="0" cellspacing="0" cellpadding="0">'
