@@ -1,0 +1,635 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- ########## -->
+<!-- Start Head -->
+<!-- ########## -->
+
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<title>Group Publications</title>
+
+	<!-- Import Stylesheets -->
+	<link href="css/basic.css" rel="stylesheet" type="text/css" media="all" />
+
+	<!-- Import Scripts -->
+	<script type="text/javascript" src="javascript/site-parts.js"></script>
+	<script type="text/javascript" src="javascript/ganalytics.js"></script>
+
+	<!-- Set Document-Specific Styles -->
+	<style type="text/css" media="screen">
+		.content_wide a:link { color: blue; text-decoration: none; }
+		.content_wide a:visited { color: purple; text-decoration: none; }
+		.content_wide a:hover { color: #ccc; }
+		.content_wide a:active { color: #fff; text-decoration: none; }
+	</style>
+
+	</head>
+
+<!-- ########## -->
+<!-- Start Body -->
+<!-- ########## -->
+
+<body>
+<div class="container">
+
+
+<!-- This creates the banner -->
+
+<div id=banner></div>
+<script type="text/javascript">insertBanner()</script>
+
+
+<!-- This sets up the navigation sidebar -->
+
+<div id=navBar></div>
+<script type="text/javascript">insertNavBar()</script>
+
+
+<!-- The page content goes here -->
+
+<div class="content_wide">
+
+	<div class="toc">
+		<h1>Recent Publications</h1>
+		<a href="#toc_2014"><li>Published in 2014</li></a>
+		<a href="#toc_2013"><li>Published in 2013</li></a>
+		<a href="#toc_2012"><li>Published in 2012</li></a>
+		<a href="#toc_2011"><li>Published in 2011</li></a>
+		<a href="#toc_2010"><li>Published in 2010</li></a>
+		<a href="#toc_2009"><li>Published in 2009</li></a>
+		<a href="#toc_2008"><li>Published in 2008</li></a>
+		<a href="#toc_2007"><li>Published in 2007</li></a>
+		<a href="#toc_2006"><li>Published in 2006</li></a>
+		<a href="#toc_2005"><li>Published in 2005</li></a>
+		<a href="#toc_2004"><li>Published in 2004</li></a>
+		<a href="#toc_2003"><li>Published in 2003</li></a>
+		<a href="#toc_2002"><li>Published in 2002</li></a>
+		<a href="#toc_2001"><li>Published in 2001</li></a>
+		</div>
+
+	<h1 id="toc_2014">2014</h1>
+
+		<p>S. Sreekumar,  Z.C. Baer,  E. Gross,  S. Padmanaban,  K. Goulas, G. Gunbas, S. Alayoglu, H.W. Blanch,  D.S. Clark, F.D. Toste, 
+			"Chemocatalytic Upgrading of Tailored Fermentation Products toward Biodiesel." 
+			ChemSusChem, 
+			<a href="http://dx.doi.org/10.1002/cssc.201402244">http://dx.doi.org/10.1002/cssc.201402244</a>
+			</p>
+
+		<p>S. Bormann, Z.C. Baer, S. Sreekumar, J.M. Kuchenreuther, F.D. Toste, H.W. Blanch, D.S. Clark, 
+			"Engineering Clostridium acetobutylicum for production of kerosene and diesel blendstock precursors." 
+			Metabolic Engineering, 25 (2014) 124-130. 
+			<a href="http://dx.doi.org/10.1016/j.ymben.2014.07.003">http://dx.doi.org/10.1016/j.ymben.2014.07.003</a>
+			</p>
+
+		<p>C.M. Roche, N.L. Glass, H.W. Blanch, D.S. Clark, 
+			"Engineering the filamentous fungus <i>Neurospora crassa</i> for lipid production from lignocellulosic biomass." 
+			Biotechnol. Bioeng., 
+			<a href="http://dx.doi.org/10.1002/bit.25211">http://dx.doi.org/10.1002/bit.25211</a>
+			</p>
+
+		<p>C.M. Dana, A. Dotson-Fagerstrom, C.M. Roche, S.M. Kal, H.A. Chokhawala, H.W. Blanch, D.S. Clark,
+			"The importance of pyroglutamate in cellulase Cel7A." Biotechnol. Bioeng., 
+			<a href="http://dx.doi.org/10.1002/bit.25178">http://dx.doi.org/10.1002/bit.25178</a>
+			</p>
+
+	<h1 id="toc_2013">2013</h1>
+
+	        <p>C. M. Roche, H.W. Blanch, D.S. Clark, N.L. Glass,
+			"Physiological role of acyl coenzyme A synthetase homologs in lipid metabolism in <i>Neurospora crassa</i>." 
+			Eukaryot. Cell. 12 (2013), 1244-57. 
+			<a href="http://dx.doi.org/10.1128/EC.00079-13">http://dx.doi.org/10.1128/EC.00079-13</a>
+        		</p>
+		      
+	        <p>Matt Pavlovich and Connor Galleher <a href="http://www.graveslab.org/"><font color="blue">(Graves Lab)<font color="black"></a>
+			attend the <a href="http://www.cgiu.org/"><font color="blue">Clinton Global Initiative University <font color="black"></a>annual meeting 
+			in St. Louis, where they <a href="http://graves-lab.cchem.berkeley.edu/agp/poster.jpg"><font color="blue">discussed <font color="black"></a> 
+			plasma disinfection with President Clinton and demonstrated a prototype device. <a href="http://www.cchem.berkeley.edu/clarkgrp/Biomedical%20Plasma.html">
+			<font color="blue">Learn more<font color="black"></a> about the project to develop a low-cost, portable plasma disinfector.
+			</p>
+		      
+		<p>M.J. Pavlovich, H. Chang, Y. Sakiyama, D.S. Clark, D.B. Graves,
+			&#8220;Ozone correlates with antibacterial effects from indirect air dielectric barrier discharge treatment of water.&#8221;
+			J. Phys. D: Appl. Phys., 46 (2013) 145202. 
+			<a href="http://dx.doi.org/10.1088/0022-3727/46/14/145202">http://dx.doi.org/10.1088/0022-3727/46/14/145202</a>
+			</p>
+
+	        <p>J.M. Fox, H.W. Blanch, D.S. Clark,
+			&#8220;A single-molecule analysis reveals morphological targets for cellulase synergy.&#8221;
+			Nature Chemical Biology, 9 (2013) 356-361. 
+			<a href="http://dx.doi.org/10.1038/nchembio.1227">http://dx.doi.org/10.1038/nchembio.1227</a>
+			</p>
+		<p>In the press: <a href="http://www.nature.com/nchembio/journal/vaop/ncurrent/full/nchembio.1237.html"><font color="blue">
+			Nature Chem Bio News and Views<font color="black"></a>, <a href="http://newscenter.lbl.gov/news-releases/2013/04/07/sweet-success/">
+			<font color="blue">LBNL News center<font color="black"></a><br />
+			</p>
+
+	        <p>M.J. Pavlovich, Z. Chen, Y. Sakiyama, D.S. Clark, D.B. Graves, &#8220;Effect of Discharge Parameters and Surface Characteristics 
+			on Ambient-Gas Plasma Disinfection.&#8221;, Plasma Processes and Polymers, 10, (2013) 69-76. 
+			<a href="http://dx.doi.org/10.1002/ppap.201200073">http://dx.doi.org/10.1002/ppap.201200073</a>
+			</p>
+
+	<h1 id="toc_2012">2012</h1>
+
+	        <p>P. Anbarasan, Z.C. Baer, S. Sreekumar, E. Gross, J.B. Binder, H.W. Blanch, D.S. Clark, F.D. Toste,
+			&#8220;Integration of chemical catalysis with extractive fermentation to produce fuels.&#8221;, 
+			Nature, 491 (2012) 235-239. 
+			<a href=http://dx.doi.org/10.1038/nature11594">http://dx.doi.org/10.1038/nature11594</a>
+			In the press: <a href="http://newscenter.berkeley.edu/2012/11/07/discovery-resurrects-process-to-convert-sugar-directly-to-diesel/">
+			<font color="blue">UC Berkeley News<font color="black"></a>, <a href="http://abclocal.go.com/kgo/story?section=news/local/east_bay&id=8879289">
+			<font color="blue">ABC 7 Local News<font color="black"></a><br />
+			</p>
+		      
+	        <p>K. Shill, K. Miller, D.S. Clark, H.W. Blanch, 
+			&#8220;A model for optimizing the enzymatic hydrolysis of ionic liquid-pretreated lignocellulose.&#8221;,
+			Bioresour. Technol., 126 (2012) 290-297. 
+			<a href="http://dx.doi.org/10.1016/j.biortech.2012.08.062">http://dx.doi.org/10.1016/j.biortech.2012.08.062</a>
+			</p>
+
+	        <p>D.J. Glover, L. Giger, J.R. Kim, D.S. Clark, 
+			&#8220;Engineering protein filaments with enhanced thermostability for nanomaterials.&#8221;, 
+			Biotechnol. J., 8:2 (2012) 228-236. 
+			<a href="http://dx.doi.org/10.1002/biot.201200009">http://dx.doi.org/10.1002/biot.201200009</a>
+			</p>
+
+	        <p>S. Huffer, C.M. Roche, H.W. Blanch, D.S. Clark,
+			&#8220;<i>Escherichia coli</i> for biofuel production: bridging the gap from promise to practice.&#8221;,
+			Trends Biotechnol., 30:10 (2012) 538-545. 
+			<a href="http://dx.doi.org/10.1016/j.tibtech.2012.07.002">http://dx.doi.org/10.1016/j.tibtech.2012.07.002</a>
+			</p>
+
+		<p>C.M. Dana, P. Saija, S.M. Kal, M.B. Bryan, H.W. Blanch, D.S. Clark,
+			&#8220;Biased clique shuffling reveals stabilizing mutations in cellulase Cel7A.&#8221;, 
+			Biotechnol. Bioeng., 109:11, (2012) 2710-2719. 
+			<a href="http://dx.doi.org/10.1002/bit.24708">http://dx.doi.org/10.1002/bit.24708</a>
+			</p>
+
+		<p>E. Schneider, D.S. Clark, &#8220;Cytochrome P450 (CYP) enzymes and the development of CYP biosensors.&#8221;,
+			Biosens. Bioelectron., 39:1 (2012) 1-13. 
+			<a href="http://dx.doi.org/10.1016/j.bios.2012.05.043">http://dx.doi.org/10.1016/j.bios.2012.05.043</a>
+			</p>
+
+		<p>M.J. Liszka, M.E. Clark, E. Schneider, D.S. Clark,
+			&#8220;Nature versus nurture: developing enzymes that function under extreme conditions.&#8221;,
+			Annu. Rev. Chem. Biomol. Eng., 3 (2012) 77-102. 
+			<a href=http://dx.doi.org/10.1146/annurev-chembioeng-061010-114239">http://dx.doi.org/10.1146/annurev-chembioeng-061010-114239</a>
+			</p>
+
+	        <p>J.M. Fox, S.E. Levine, H.W. Blanch, D.S. Clark,
+			&#8220;An evaluation of cellulose saccharification and fermentation with an engineered <i>Saccharomyces cerevisiae</i>
+			capable of cellobiose and xylose utilization.&#8221;,
+			Biotech J., 7:3 (2012) 361-373. 
+			<a href=http://dx.doi.org/10.1002/biot.201100209">http://dx.doi.org/10.1002/biot.201100209</a>
+			</p>
+
+		<p>J.M. Fox, S.E. Levine, D.S. Clark, H.W. Blanch,
+			&#8220;Initial- and processive-cut products from cellobiohydrolase-catalyzed hydrolysis of cellulose reveal
+			rate-limiting steps and role of companion enzymes.&#8221;,
+			Biochem., 51:1 (2012) 442-452. 
+			<a href="http://dx.doi.org/10.1021/bi2011543">http://dx.doi.org/10.1021/bi2011543</a>
+			</p>
+		      
+	         <p>Q. Xin, K. Pfeiffer, J.M. Prausnitz, D.S. Clark, H.W. Blanch,
+			&#8220;Extraction of lignins from aqueous-ionic liquid mixtures by organic solvents.&#8221;,
+			Biotechnol. Bioeng., 109:2 (2012) 346-352. 
+			<a href="http://dx.doi.org/10.1002/bit.24337">http://dx.doi.org/10.1002/bit.24337</a>
+			</p>
+		      
+	<h1 id="toc_2011">2011</h1>
+		      
+		<p>M.J. Traylor, M.J. Pavlovich, S. Karim, P. Hait, Y. Sakiyama, D.S. Clark, D.B. Graves,
+			&#8220;Long-term antibacterial efficacy of air plasma-activated water.&#8221;,
+			J. Phys. D: Appl. Phys., 44, (2011). 
+			<a href="http://dx.doi.org/10.1088/0022-3727/44/47/472001">http://dx.doi.org/10.1088/0022-3727/44/47/472001</a>
+			</p>
+
+		<p>P.W. Wolski, D.S. Clark, H.W. Blanch,
+			&#8220;Green fluorescent protein as a screen for enzymatic activity in ionic liquid–aqueous systems for in situ hydrolysis of lignocellulose.&#8221;,
+			Green Chem., 13, (2011). 
+			<a href="http://dx.doi.org/10.1039/C1GC15691H">http://dx.doi.org/10.1039/C1GC15691H</a>
+			</p>
+
+		<p>T.W. Kim, H.A. Chokhawala, M. Hess, C.M. Dana, Z. Baer, A. Sczyrba, E.M. Rubin, H.W. Blanch, D.S. Clark,
+			&#8220;High-throughput in vitro glycoside hydrolase (HIGH) screening for enzyme discovery.&#8221;,
+			Angew. Chim. Int. Ed., (2011). 
+			<a href="http://dx.doi.org/10.1002/anie.201104685">http://dx.doi.org/10.1002/anie.201104685</a>
+			</p>
+
+		<p>M.J. Traylor, J.D. Ryan, E.S. Arnon, J.S. Dordick, D.S. Clark,
+			&#8220;Rapid and quantitative measurement of metabolic stability without chromatography or mass spectrometry.&#8221;, 
+			JACS, 133(37), (2011). <a href="http://dx.doi.org/10.1021/ja203172c">http://dx.doi.org/10.1021/ja203172c</a>
+			</p>
+
+		<p>S. Huffer, M.E. Clark, J.C. Ning, H.W. Blanch, D.S. Clark, 
+			&#8220;Role of alcohols in growth, lipid composition, and membrane fluidity of yeasts, bacteria, and archaea.&#8221;, 
+			Appl. Environ. Microbiol. (2011). 
+			<a href="http://dx.doi.org/10.1128/AEM.00694-11">http://dx.doi.org/10.1128/AEM.00694-11</a>
+			</p>
+
+		<p>J.E. Graham, M.E. Clark, D.C. Nadler, S. Huffer, H.A. Chokhawala, S.E. Rowland, H.W. Blanch, D.S. Clark, F.T. Robb. 
+			&#8220;Identification and characterization of a multidomain hyperthermophilic cellulase from an archaeal enrichment&#8221;,
+			Nat. Commun., 2:375, (2011). 
+			<a href="http://dx.doi.org/10.1038/ncomms1373">http://dx.doi.org/10.1038/ncomms1373</a>
+			</p>
+
+		<p>S.E. Levine, J.M. Fox, H.W. Blanch, D.S. Clark,
+			&#8220;A mechanistic model  for rational design of optimal cellulase mixtures&#8221;,
+			Biotechnol. Bioeng., Epub ahead of print, (2011). 
+			<a href="http://dx.doi.org/10.1002/bit.23249">http://dx.doi.org/10.1002/bit.23249</a>
+			</p>
+
+		<p>C.T. Trinh, J. Li, H.W. Blanch, D.S. Clark,
+			&#8220;Redesigning <i>Escherichia coli</i> metabolism for anaerobic production of isobutanol.&#8221;,
+			Appl. Environ. Microbiol., 77(14), (2011). 
+			<a href="http://dx.doi.org/10.1128/AEM.00382-11">http://dx.doi.org/10.1128/AEM.00382-11</a>
+			</p>
+
+		<p>M. Hess, A.Sczyrba, R. Egan, T.-W. Kim, H. Chokhawala, G. Schroth, S. Luo, D.S. Clark, F. Chen, T. Zhang, R.I. Mackie,
+			L.A. Pennacchio, S.G. Tringe, A. Visel, T. Woyke, Z. Wang. E.M. Rubin,
+			&#8220;Metagenomic discovery of biomass-degrading genes and genomes from cow rumen&#8221;,
+			Science, 331, (2011). 
+			<a href="http://dx.doi.org/10.1126/science.1200387">http://dx.doi.org/10.1126/science.1200387</a>
+			</p>
+
+		<p>K. Shill, S. Padmanabhan, Q. Xin, J.M. Prausnitz, D.S. Clark, H.W. Blanch,
+			&#8220;Ionic liquid pretreatment of cellulosic biomass: Enzymatic hydrolysis and ionic liquid recycle&#8221;,
+			Biotechnol. Bioeng., 108(3), (2011). 
+			<a href="http://dx.doi.org/10.1002/bit.23014">http://dx.doi.org/10.1002/bit.23014</a>
+			</p>
+
+		<p>M.J. Traylor, J. Chai, D.S. Clark,
+			&#8220;Simultaneous measurement of CYP1A2 activity, regioselectivity, and coupling: Implications for environmental sensitivity of enzyme-substrate binding&#8221;,
+			Arch. Biochem. Biophys., 505(2), (2011). 
+			<a href="http://dx.doi.org/10.1016/j.abb.2010.10.002">http://dx.doi.org/10.1016/j.abb.2010.10.002</a>
+			</p>
+
+	<h1 id="toc_2010">2010</h1>
+
+		<p>P.G. Holder, D.T. Finley, N. Stephanopoulos, R. Walton, D.S. Clark, M.B. Francis,
+			&#8220;Dramatic thermal stability of virus-polymer conjugates in hydrophobic solvents&#8221;,
+			Langmuir, 26(22), (2010).<br />
+			</p>
+
+		<p>D.S. Clark,
+			&#8220;Protein Melts: A new phase for protein chemistry&#8221;,
+			Nature Chem., 2(8), (2010).<br />
+			</p>
+
+		<p>T.W. Kim, H.A. Chokhawala, D. Nadler, H.W. Blanch, D.S. Clark,
+			&#8220;Binding modules alter the activity of ahimeric cellulases: effects of biomass pretreatment and enzyme source&#8221;,
+			Biotechnol. Bioeng., 107(4), (2010).
+			</p>
+
+		<p>S.E. Levine, J.M. Fox, H.W. Blanch, D.S. Clark,
+			&#8220;A Mechanistic model of the enzymatic hydrolysis of cellulose&#8221;, 
+			Biotechnol. Bioeng., 107(1), (2010).
+			</p>
+
+		<p>C.T. Trinh, S. Huffer, M.E. Clark, H.W. Blanch, D.S. Clark,
+			&#8220;Elucidating mechanisms of solvent toxicity in ethanologenic <em>Escherichia coli</em>&#8221;, 
+			Biotechnol. Bioeng., 106(5), (2010).
+			</p>
+
+		<p>M.Y. Lee, J.S. Dordick, D.S. Clark,
+			&#8220;Metabolic enzyme microarray coupled with miniaturized cell-culture array technology for high-throughput toxicity screening&#8221;, 
+			Methods Mol. Biol., 632, (2010).
+			</p>
+
+		<p>T.G. Fernandes, S.J. Kwon, S.S. Bale, M.Y. Lee, M.M. Diogo, D.S. Clark, J.M. Cabral, J.S. Dordick,
+			&#8220;Three-dimensional cell culture microarray for high-throughput studies of stem cell fate&#8221;, 
+			Biotechnol. Bioeng., 106(1), (2010).
+			</p>
+
+		<p>U. Akbar, D. Shin, E. Schneider, J.S. Dordick, D.S. Clark,
+			&#8220;Two-step enzymatic modification of solid-supported bergenin in aqueous and organic media&#8221;, 
+			Tetrahedron Lett., 51(8), (2010).
+			</p>
+
+	<h1 id="toc_2009">2009</h1>
+
+		<p>T.A. Whitehead, L.M. Bergeron, and D.S. Clark,
+			&#8220;Tying up the loose ends: circular permutation decreases the proteolytic susceptibility of recombinant proteins&#8221;, 
+			Protein Eng. Des. Sel., 22(10), (2009).
+			</p>
+
+		<p>J.M. Slocik, S.N. Kim, T.A. Whitehead, D.S. Clark, and R.R Naik,
+			&#8220;Biotemplated metal nanowires using hyperthermophilic protein filaments&#8221;, 
+			Small, 5(18), (2009).
+			</p>
+
+		<p>N. Bruns, K. Pustelny, L.M. Bergeron, T.A. Whitehead, and D.S. Clark,
+			&#8220;Mechanical nanosensor based on FRET within a thermosome for damage-reporting polymeric materials&#8221;, 
+			Angew. Chem. Int., 48(31), (2009).
+			</p>
+
+		<p>E.P. Hudson, R.K. Eppler, J.M. Beaudoin, J.S. Dordick, J.A. Reimer,  D.S. Clark,
+			&#8220;Active-site motions and polarity enhance catalytic turnover of hydrated subtilisin dissolved in organic solvents&#8221;, 
+			J. Am. Chem. Soc., 131(12), (2009).
+			</p>
+
+		<p>T.A. Whitehead, E. Je, and D.S. Clark,
+			&#8220;Rational shape engineering of the filamentous protein g prefoldin through incremental gene truncation&#8221;, 
+			Biopolymers, 91(6), (2009).
+			</p>
+
+		<p>S.M. Sukumaran, B. Potsaid, M.Y. Lee, D.S. Clark, and J.S. Dordick,
+			&#8220;Development of a fluorescence-based, ultra high-throughput screening platform for nanoliter-scale cytochrome P450 microarrays&#8221;, 
+			J. Biomol. Screen., 14(6), (2009).
+			</p>
+
+		<p>T.G. Fernandes, M.M. Diogo, D.S. Clark, J.S. Dordick, and J.M.S. Cabral,
+			&#8220;High-throughput cellular microarray platforms: Potential applications in drug discovery, toxicology, and stem cell research and therapy&#8221;, 
+			Trends in Biotechnology, 27(6) (2009).
+			</p>
+
+		<p>R.A. Kumar, N. Papa&iuml;conomou, J.-M. Lee, J. Salminen, D.S. Clark, J. M. Prausnitz,
+			&#8220;<em>In vitro</em> cytotoxicities of ionic liquids: effect of cation rings, functional groups and anions&#8221;, 
+			Environ. Toxicol., 24(4), (2009).
+			</p>
+
+		<p>L.M. Bergeron, D.L. Shis, L. Gomez, and D.S. Clark,
+			&#8220;Small molecule inhibition of a Group II chaperonin: pinpointing a loop region within the equatorial domain as necessary for protein refolding&#8221;, 
+			Arch. Biochem. Biophys., 481(1), (2009).
+			</p>
+
+		<p>L.M.Bergeron, L. Gomez, T.A. Whitehead, D.S. Clark,
+			&#8220;Self-Renaturing Enzymes: Design of an Enzyme-Chaperone Chimera as a New Approach to Enzyme Stability&#8221;, 
+			Biotechnol. Bioeng., 102(5), (2009).
+			</p>
+
+		<p>L.M. Bergeron, T. Tokatlian, L. Gomez, D.S. Clark,
+			&#8220;Redirecting the inactivation pathway of penicillin amidase and increasing amoxicillin production via a thermophilic molecular chaperone&#8221;, 
+			Biotechnol. Bioengin., 102(2), (2009).
+			</p>
+
+	<h1 id="toc_2008">2008</h1>
+
+		<p>J.D. Ryan, R.H. Fish, D.S. Clark,
+			&#8220;Engineering Cytochrome P450 Enzymes for Improved Activity Towards Biomimetic 1,4-NADH Cofactors,&#8221; 
+			ChemBioChem., 9(16), (2008).
+			</p>
+
+		<p>S.J. Brooks, L. Coulombel, D. Ahuja, D.S. Clark, J.S. Dordick,
+			&#8220;Expanding the Scope of Biocatalysis: Oxidative Biotransformations on Solid-Supported Substrates,&#8221; 
+			Adv. Syn. Catal., 380(10), (2008).
+			</p>
+
+		<p>R.K. Eppler, E.P. Hudson, S.D. Chase, J.S. Dordick, J.A. Reimer, D.S. Clark,
+			&#8220;Biocatalyst Activity in Non-Aqueous Environments Correlates with Centisecond-Range Protein Motions,&#8221; 
+			Proc. Nat. Acad. Sci. USA, 105, 41 (2008).
+			</p>
+		<p>T.G. Fernandes, S.J. Kown, M.Y. Lee, D.S. Clark, J.M.S Cabral, J.S Dordick,
+			&#8220;On-Chip, Cell-Based Microarray Immunofluorescence Assay for High-Throughput Analysis of Target Proteins&#8221;, 
+			Anal. Chem., 80(17) (2008).
+			</p>
+
+		<p>T.A. Whitehead, A.L. Meadows, and D.S. Clark,
+			&#8220;Controlling the self-assembly of a filamentous hyperthermophilic chaperone by an engineered capping protein,&#8221; 
+			Small, 4(7) (2008).
+			</p>
+
+		<p>L.M. Bergeron, C. Lee, D.S. Clark,
+			&#8220;Identification of a critical chaperoning region on an archaeal recombinant thermosome,&#8221; 
+			Biochem Biophys. Res. Commun. 369: 707-711, (2008).
+			</p>
+
+		<p>J.D. Ryan and D.S. Clark,
+			&#8220;P450cam biocatalysis in surfactant-stabilized two-phase emulsions&#8221;, 
+			Biotechnol. Bioeng., 99(6), (2008).
+			</p>
+
+		<p>A.L. Meadows, B. Kong, M. Berdichevsky, S. Roy, R. Rosiva, H.W. Blanch, D.S. Clark,
+			&#8220;Metabolic and Morphological Differences between Rapidly Proliferating Cancerous and Normal Breast Epithelial Cells&#8221;, 
+			Biotech. Prog., 24(2), (2008).
+			</p>
+
+		<p>J. C&oacute;rdova, J.D. Ryan, B.B. Boonyaratanakornkit, and D.S. Clark,
+			&#8220;Esterase Activity of Bovine Serum Albumin up to 160&deg;C: A New Benchmark for Biocatalysis,&#8221; 
+			Enzyme Microb. Technol., 42, 278 (2008).
+			</p>
+
+		<p>L.M. Bergeron, C. Lee, T. Tokatlian, V. H&ouml;llrigl, and D.S. Clark,
+			&#8220;Chaperone Function in Organic Co-solvents: Experimental Characterization and Modeling of a Hyperthermophilic Chaperone Subunit from Methanocaldococcus jannaschii,&#8221; 
+			Biochim. Biophys. Acta, 2008 Feb; 1784(2): 368-78.
+			</p>
+
+		<p>M.Y. Lee, A. Kumar, S. M. Sukamaran, M. G. Hogg, D.S. Clark, and J.S. Dordick,
+			&#8220;Three-Dimensional Cellular Microarray for High-Throughput Screening,&#8221; 
+			Proc. Nat. Acad. Sci. USA, 105, 59 (2008).
+			</p>
+
+	<h1 id="toc_2007">2007</h1>
+
+		<p>T.C. Logan, D.S. Clark, T.B. Stachowiak, F. Svec, and J.M.J. Frechet,
+			&#8220;Photo-patterning Enzymes on Polymer Monoliths in Microfluidic Channels for Steady-State Kinetic Analysis and Spatially-Separated Multi-Enzyme Reactions,&#8221; 
+			Anal. Chem., 79, 6592 (2007).
+			</p>
+
+		<p>A.L. Meadows, S. Roy, D.S. Clark, H.W. Blanch,
+			&#8220;Optimal design of metabolic flux analysis experiments for anchorage-dependent mammalian cells using a cellular automaton model&#8221;, 
+			Biotech. Bioengin., 98(1), (2007).
+			</p>
+
+		<p>H.R. Johnson, J.M. Hooker, M.B. Francis, and D.S. Clark,
+			&#8220;Solubilization and  Stabilization of Bacteriophage MS2 in Organic Solvents,&#8221; Biotechnol. Bioeng., 97, 224 (2007).
+			</p>
+
+		<p>B.B. Boonyaratanakornkit, L.Y. Miao, and D.S. Clark,
+			&#8220;Transcriptional  Responses of the Deep-Sea Hyperthermophile <em>Methanocaldococcus jannaschii</em> under Shifting Extremes of Temperature and Pressure,&#8221; 
+			Extremophiles, 11, 495 (2007).
+			</p>
+
+		<p>T.A.  Whitehead, B.B. Boonyaratanakornkit, V. H&ouml;llrigl, and D.S. Clark,
+			&#8220;A  Filamentous Molecular Chaperone of the Prefoldin Family from the Deep-Sea  Hyperthermophile <em>Methanocaldococcus jannaschii</em>,&#8221; 
+			Protein Sci., 16, 626 (2007).
+			</p>
+
+		<p>U. Akbar, C.D. Aschenbrenner, M.R. Harper, H.R. Johnson, J.S. Dordick, and  D.S. Clark,
+			&#8220;Direct Solubilization of Enzyme Aggregates with Enhanced Activity  in Nonaqueous Media,&#8221; 
+`			Biotechnol. Bioeng., 96, 1030 (2007).
+			</p>
+
+	<h1 id="toc_2006">2006</h1>
+
+		<p>B.B. Boonyaratanakornkit, J. C&oacute;rdova, C.B. Park, D.S. Clark,
+			&#8220;Pressure affects transcription profiles of Methanocaldococcus jannaschii despite the absence of barophilic growth under gas-transfer limitation&#8221;, 
+			Environ. Microb., 8(11), (2006).
+			</p>
+
+		<p>N.S. Forbes, A.L. Meadows, D.S. Clark, and H.W. Blanch, 
+			&#8220;Estradiol Stimulates  the Biosynthetic Pathways of Breast Cancer Cells: Detection by Metabolic Flux  Analysis,&#8221; 
+			Metabolic Eng., 8, 639 (2006).
+			</p>
+
+		<p>J.B. Park and D.S. Clark,
+			&#8220;New reaction system for hydrocarbon oxidation by chloroperoxidase&#8221;,
+			Biotechnol. Bioengin., 94(1), (2006).
+			</p>
+
+		<p>R.A. Kumar and D.S. Clark,
+			&#8220;High-Throughput Screening of Biocatalytic  Activity: Applications in Drug Discovery,&#8221; 
+			Current Opinion in Chemical Biology, 10, 162 (2006).
+			</p>
+
+		<p>J.B. Park and D.S. Clark,
+			&#8220;Deactivation Mechanisms of Chloroperoxidase During Biotransformations,&#8221; 
+			Biotech. Bioeng., 93, 1190 (2006).
+			</p>
+
+		<p>R.K. Eppler, J. Huynh, R.S. Komor, J.S. Dordick, J.A. Reimer, and D.S. Clark,
+			&#8220;Water Dynamics and Salt-Activation of Enzymes in Organic Media: Mechanistic Implications Revealed by NMR Spectroscopy,&#8221; 
+			Proc. Nat. Acad. Sci. USA, 103, 5706 (2006).
+			</p>
+
+	<h1 id="toc_2005">2005</h1>
+
+		<p>E.P Hudson, R.K. Eppler, D.S Clark,
+			&#8220;Biocatalysis in semi-aqueous and nearly anhydrous conditions&#8221;, 
+			Current Opinion in Biotechnology, 16(6), (2005).
+			</p>
+
+		<p>B.B. Boonyaratanakornkit, A.J. Simpson, T.A. Whitehead, C.M. Fraser, N.M.A. El-Sayed, and D.S. Clark,
+			&#8220;Transcriptional Profiling of the Hyperthermophilic Methanarchaeon Methanococcus jannaschii in Response to Lethal Heat and Non-lethal Cold Shock,&#8221; 
+			Env. Microbiol., Env. Microbiol., 7(6), 789 (2005).
+			</p>
+
+		<p>M.Y. Lee, J.S. Dordick, and D.S. Clark,
+			&#8220;Metabolizing Enzyme Toxicology Assay Chip (MetaChip) for High-Throughput Microscale Toxicity Analyses,&#8221; 
+			Proc. Nat. Acad. Sci. USA, 102, 983 (2005).
+			</p>
+
+	<h1 id="toc_2004">2004</h1>
+
+		<p>D.S. Clark,
+			&#8220;Characteristics of Nearly Dry Enzymes in Organic Solvents: Implications for Biocatalysis in the Absence of Water,&#8221; 
+			Phil. Trans. R. Soc. Lond. B, 359, 1299 (2004).
+			</p>
+
+		<p>R. Gerber, J.D. Ryan, and D.S. Clark,
+			&#8220;Cell-based Screen of HMG-CoA Reductase Inhibitors and Expression Regulators Using LC-MS Spectrometry,&#8221; 
+			Anal. Biochem., 329, 28 (2004).
+			</p>
+
+		<p>J.P. Lindsay, D.S. Clark, and J.S. Dordick,
+			&#8220;Combinatorial Formulation of Biocatalyst Preparations for Increased Activity in Organic Solvents: Salt Activation of Penicillin Amidase,&#8221;
+			Biotechnol. Bioeng., 85, 553 (2004).
+			</p>
+
+		<p>J.A. Morgan and D.S. Clark,
+			&#8220;Salt-Activation of Non-hydrolase Enzymes for Use in Organic Solvents,&#8221; Biotechnol. Bioeng., 85, 456 (2004).
+			</p>
+
+		<p>B.P. Manquin, J.A. Morgan, J. Ju, and D.S. Clark,
+			&#8220;Production of C35 Isoprenoids Depends on H2 Availability During Cultivation of the Hyperthermophilic Methanarchaeon Methanococcus jannaschii,&#8221;
+			Extremophiles, 8, 13 (2004).
+			</p>
+
+	<h1 id="toc_2003">2003</h1>
+
+		<p> R.J. Frankenberg, M. Andersson, and D.S. Clark,
+			&#8220;Effect of Temperature and Pressure on the Proteolytic Specificity of the Recombinant 20S Proteasome from Methanococcus jannaschii,&#8221;
+			Extremophiles, 7, 353 (2003).
+			</p>
+
+		<p> D.H. Altreuter, J.S. Dordick, and D.S. Clark,
+			&#8220;Solid-phase peptide synthesis by ion-paired alpha-chymotrypsin in nonaqueous media,&#8221;
+			Biotechnol. Bioeng., 81(7) (2003).
+			</p>
+
+	<h1 id="toc_2002">2002</h1>
+
+		<p>C.B. Park and D.S. Clark,
+			&#8220;Rupture of the Cell Envelope by Decompression of the Deep-Sea  Methanogen Methanococcus jannaschii,&#8221; 
+			Appl. Environ. Microbiol., 68, 1458 (2002).
+			</p>
+
+		<p>C.B. Park and D.S. Clark,
+			&#8220;Sol-Gel Encapsulated Enzyme Arrays for High Throughput Screening of Biocatalytic Activity,&#8221; 
+			Biotechnol. Bioeng., 78, 229 (2002).
+			</p>
+
+		<p>D.H. Altreuter, J.S. Dordick, and D.S. Clark,
+			&#8220;Nonaqueous Biocatalytic Synthesis of New Cytotoxic Doxorubicin Derivatives:
+			Exploiting Unexpected Differences in the Regioselectivity of Salt-Activated and Solubilized Subtilisin,&#8221;
+			J. Am. Chem. Soc., 124, 1871 (2002).
+			</p>
+
+	<h1 id="toc_2001">2001</h1>
+
+		<p>R.J. Frankenberg, T. S.Hsu, H. Yakota, R. Kim, and D.S. Clark,
+			&#8220;Chemical Denaturation and Elevated Folding Temperatures are Required for Wild-Type Activity and Stability of
+			Recombinant Methanococcus jannaschii 20S Proteasome,&#8221;
+			Protein Sci., 10, 1887 (2001).
+			</p>
+
+		<p>Y.D. Kim, C.B. Park, and D.S. Clark, 
+			&#8220;Stable Sol-Gel Microstructured and Microfluidic Networks for Protein Patterning,&#8221; Biotechnol. Bioeng., 73, 331 (2001).
+			</p>
+
+		<p>N.S. Forbes, D.S. Clark, and H.W. Blanch, 
+			&#8220;Using Isotopomer Path Tracing to Quantify Metabolic Fluxes in Pathway Models Containing Reversible Reactions,&#8221; Biotechnol. Bioeng., 74, 196 (2001).
+			</p>
+
+		<p>M.T. Ru, K.C. Wu, J.P. Linday, J.S. Dordick, J.A. Reimer, and D.S. Clark, 
+			&#8220;Towards More Active Biocatalysts in Organic Media: Achieving Aqueous-Like Activity of Salt-Activated Enzymes,&#8221; 
+			Biotechnol. Bioeng., 75, 187 (2001).
+			</p>
+
+		<p>R.J. Frankenberg, T.S. Hsu, H. Yakota, R. Kim, and D.S. Clark, 
+			&#8220;Chemical Denaturation and Elevated Folding Temperatures are Required for Wild-Type Activity and Stability of Recombinant Methanococcus jannaschii 20S Proteasome,&#8221;
+			Protein Sci., 10, 1887 (2001).
+			</p>
+
+		<p>M.M.C. Sun, R. Caillot, G. Mak, F.T. Robb, and D.S. Clark, 
+			&#8220;Mechanism of Pressure-Induced Thermostabilization of Proteins: Studies of Glutamate Dehydrogenases from the Hyperthermophile Thermococcus litoralis,&#8221;
+			Protein Sci., 10, 1750 (2001).
+			</p>
+
+		<p>W.B. Jang, H. Hu, M.M. Lieberman, J.A. Morgan, I.A. Stergiades, D.S. Clark, and M.A. Tius, 
+			&#8220;Parallel Synthesis and Biocatalytic Amplification of a Cross-Conjugated Cyclopentenone Library,&#8221; 
+			J. Combi. Chem., 3, 346 (2001).
+			</p>
+
+	</div>
+
+
+<!-- The right sidebar goes here -->
+<!-- We're not using a sidebar right now!
+<div class="right_sidebar">
+	<h1>Recent Cover Stories</h1>
+
+                <a href="http://onlinelibrary.wiley.com/doi/10.1002/biot.201100209/full" target="_blank"><img src="images/JeromeCoverResized.jpg" width="160"/></a>
+                <p class="style1">Biotechnology Journal, March, 2012</p>
+                <br/>
+                <a href="http://onlinelibrary.wiley.com/doi/10.1002/ange.201106146/pdf" target="_blank"><img src="images/angewandte2011resized.jpg" width="160"/></a>
+                <p class="style1">Angewandte Chemie, November 18, 2011</p>
+                <br/>
+                <a href="http://pubs.acs.org/doi/pdf/10.1021/ja203172c" target="_blank"><img src="images/MattsJACScoverResized.jpg" width="160"/></a>
+                <p class="style1">Journal of the American Chemical Society, September 21, 2011</p>
+                <br/>
+                <a href="http://onlinelibrary.wiley.com/doi/10.1002/bit.22856/pdf" target="_blank"><img src="images/BandBnov2010Coverresized.jpg" width="160"/></a>
+                <p class="style1">Biotechnology and Bioengineering, November 1, 2010</p>
+                <br/>
+                <a href="http://www3.interscience.wiley.com/cgi-bin/fulltext/122368586/PDFSTART" target="_blank"><img src="images/AngCover.jpg" width="160"/></a>
+                <p class="style1">Angewandte Chemie July 20, 2009</p>
+                <br />
+                <a href="http://pubs.acs.org/cen/coverstory/87/8719aboutcover.html" target="_blank"><img src="images/cencover.jpg" width="160"/></a>
+                <p class="style1">C&amp;EN May 11, 2009</p>
+                <br />
+                <a href="http://www.pnas.org/content/102/4/983.full.pdf" target="_blank"><img src="images/PNASCover.jpg" width="160"/></a>
+                <p class="style1">PNAS Jan 25, 2005</p>
+                <br />
+                <a href="http://www3.interscience.wiley.com/cgi-bin/fulltext/79502220/PDFSTART" target="_blank"><img src="images/BBCover.jpg" width="160"/></a>
+                <p class="style1">Biotechnology and Bioengineering June 20, 2001</p>
+                <br />
+                <font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Books from Douglas S. Clark</strong></font>
+                <br/>
+                <br/>
+                <a href="http://www.amazon.com/Biochemical-Engineering-Harvey-W-Blanch/dp/0824700996/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1225063600&amp;sr=8-1" target="_blank"><img src="images/Blanch&amp;Clark.jpg" width="160"/></a>
+    
+	</div>
+-->
+
+</div>
+</body>
+</html>

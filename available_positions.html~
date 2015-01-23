@@ -44,7 +44,7 @@
 <div class="content_wide">
 
         <iframe 
-                style="width:585px;border:none;padding:0px;margin:0px;"
+                style="width:585px;height:1600px;border:none;padding:0px;margin:0px;"
                 scrolling="no" 
 				frameborder="0" 
 				id="iframe" 
