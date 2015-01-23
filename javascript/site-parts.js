@@ -133,9 +133,9 @@ function insertBanner() {
 
 // Add JavaScript to automatically resize iframes based on content size:
 
-function injectIframe() {
+function injectIframe(obj) {
 	var scriptTag = "<script src='javascript/iframeResizer.contentWindow.min.js'><\/script>";
-	$("#iframe").contents().find("body").append(scriptTag);
+	obj.contents().find("body").append(scriptTag);
 	}
 
 
