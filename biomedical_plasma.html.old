@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- ########## -->
+<!-- Start Head -->
+<!-- ########## -->
+
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<title>Biomedical Applications of Low Temperature Plasma</title>
+
+	<!-- Import Stylesheets -->
+	<link href="css/basic.css" rel="stylesheet" type="text/css" media="all" />
+
+	<!-- Import Scripts -->
+	<script type="text/javascript" src="javascript/site-parts.js"></script>
+	<script type="text/javascript" src="javascript/ganalytics.js"></script>
+
+	</head>
+
+<!-- ########## -->
+<!-- Start Body -->
+<!-- ########## -->
+
+<body>
+<div class="container">
+
+<!-- This creates the banner -->
+
+<div id=banner></div>
+<script type="text/javascript">insertBanner()</script>
+
+
+<!-- This sets up the navigation sidebar -->
+
+<div id=navBar></div>
+<script type="text/javascript">insertNavBar_research()</script>
+
+<!-- The page content goes here -->
+
+<div class="content">
+
+        <iframe 
+                style="width:400px;height:800px;border:none;padding:0px;margin:0px;"
+                scrolling="no" 
+		src="https://docs.google.com/document/d/1bBXQpltUTDpWR7BK4_cdtzwjH4zYC-6Yu7kzu6nHuvU/pub?embedded=true">
+                </iframe>
+
+        </div>
+
+<div class="sidebar">
+        <iframe
+                style="width:185px;height:800px;border:none;padding:0px;margin:0px;" 
+                scrolling="no" 
+		src="https://docs.google.com/document/d/1IIuqSnsuDTjlDv1rArKHiUKJML68vW4l1us7QPG-EZM/pub?embedded=true">
+                </iframe>
+        </div>
+
+</div>
+</body>
+</html>

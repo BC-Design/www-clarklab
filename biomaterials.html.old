@@ -7,7 +7,7 @@
 
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<title>Group Information</title>
+	<title>Biomaterials and Biocatalytic Microsystems</title>
 
 	<!-- Import Stylesheets -->
 	<link href="css/basic.css" rel="stylesheet" type="text/css" media="all" />
@@ -34,27 +34,29 @@
 <!-- This sets up the navigation sidebar -->
 
 <div id=navBar></div>
-<script type="text/javascript">insertNavBar_info()</script>
+<script type="text/javascript">insertNavBar_research()</script>
 
 
 <!-- The page content goes here -->
 
 <div class="content">
 
-	<iframe 
-		style="width:400px;height:800px;border:none;padding:0px;margin:0px;"
-		scrolling="no" 
-		src="https://docs.google.com/document/d/1ARAohTYKeTeRen13_LNjV3NliLNgxFckyCtC71szFaU/pub?embedded=true">
-		</iframe>
+        <iframe 
+                style="width:400px;height:800px;border:none;padding:0px;margin:0px;"
+                scrolling="no" 
+		src="https://docs.google.com/document/d/1fya4FcMgYgVOtsnl_vO8ixGf_nXa8cW174wif5cNurQ/pub?embedded=true">
+                </iframe>
 
-	</div>
+        </div>
 
 <div class="sidebar">
-	<iframe
-		style="width:185px;height:800px;border:none;padding:0px;margin:0px;" 
-		scrolling="no" 
-		src="https://docs.google.com/document/d/1IEjZwxrbLIWBlmVan6sl3ZH2zxN6pEw7oyPSqXzfnec/pub?embedded=true">
-		</iframe>
-	</div>
+        <iframe
+                style="width:185px;height:800px;border:none;padding:0px;margin:0px;" 
+                scrolling="no" 
+		src="https://docs.google.com/document/d/1Dyje_R-FaqcOaoFqPus1amDHbE_DLl57fNvbsGWukl0/pub?embedded=true">
+                </iframe>
+        </div>
+
+</div>
 </body>
 </html>
