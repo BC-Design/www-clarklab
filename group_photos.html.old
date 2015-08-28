@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- ########## -->
+<!-- Start Head -->
+<!-- ########## -->
+
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<title>Group Photos</title>
+
+	<!-- Import Stylesheets -->
+	<link href="css/basic.css" rel="stylesheet" type="text/css" media="all" />
+
+	<!-- Import Scripts -->
+	<script type="text/javascript" src="javascript/site-parts.js"></script>
+	<script type="text/javascript" src="javascript/ganalytics.js"></script>
+
+	</head>
+
+<!-- ########## -->
+<!-- Start Body -->
+<!-- ########## -->
+
+<body>
+<div class="container">
+
+<!-- This creates the banner -->
+
+<div id=banner></div>
+<script type="text/javascript">insertBanner()</script>
+
+
+<!-- This sets up the navigation sidebar -->
+
+<div id=navBar></div>
+<script type="text/javascript">insertNavBar_info()</script>
+
+
+<!-- The page content goes here -->
+
+<div class="content_wide">
+
+<h1>Group Photos</h1>
+
+	<p>Lab Retreat in South Lake Tahoe, 2014</p>
+	<p><img src="images/Group Photos/Clark Lab Tahoe 2014.jpg" alt="" width="570" height="395" border="1" /></p>
+
+	<p>Salad Club</p>
+	<p><img src="images/Group Photos/Salad Club.jpg" alt="" width="420" height="560" border="1"/></p>
+
+	<p>Power Rangers at our Halloween Party, 2012</p>
+	<p><img src="images/Group Photos/Power Rangers.jpg" alt="" width="570" height="350" border="1" /></p>
+
+	</div>
+
+</div>
+</body>
+</html>

@@ -7,14 +7,13 @@
 
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<title>Available Positions</title>
+	<title>Cultivation and Genomics of Extremophiles</title>
 
 	<!-- Import Stylesheets -->
 	<link href="css/basic.css" rel="stylesheet" type="text/css" media="all" />
 
 	<!-- Import Scripts -->
 	<script type="text/javascript" src="javascript/site-parts.js"></script>
-	<script type="text/javascript" src="javascript/iframeResizer.min.js"></script>
 	<script type="text/javascript" src="javascript/ganalytics.js"></script>
 
 	</head>
@@ -26,7 +25,6 @@
 <body>
 <div class="container">
 
-
 <!-- This creates the banner -->
 
 <div id=banner></div>
@@ -36,20 +34,25 @@
 <!-- This sets up the navigation sidebar -->
 
 <div id=navBar></div>
-<script type="text/javascript">insertNavBar()</script>
-
+<script type="text/javascript">insertNavBar_research()</script>
 
 <!-- The page content goes here -->
 
-<div class="content_wide">
+<div class="content">
 
         <iframe 
-                style="width:585px;border:none;padding:0px;margin:0px;" 
+                style="width:400px;height:800px;border:none;padding:0px;margin:0px;"
                 scrolling="no" 
-				frameborder="0" 
-				id="iframe" 
-				onload="injectIframe();" 
-				src="https://docs.google.com/document/d/1_wW_GVCmRuNhBU8iHu2BzIAlLJetusrv7cvw9SU6EXs/pub?embedded=true">
+		src="https://docs.google.com/document/d/1mQVm1SrwUcS1VV2Yocv-lGHgu5jEiMo5fZ1brF8M-qY/pub?embedded=true">
+                </iframe>
+
+        </div>
+
+<div class="sidebar">
+        <iframe
+                style="width:185px;height:800px;border:none;padding:0px;margin:0px;" 
+                scrolling="no" 
+		src="https://docs.google.com/document/d/1TvvccmpO6L3Q5rN8KMzFcHIKtMmnKDGqpC3FcHZAXO0/pub?embedded=true">
                 </iframe>
         </div>
 
